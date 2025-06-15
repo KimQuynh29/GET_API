@@ -5,6 +5,10 @@
     "pg": "^8.12.0"
   },
     "scripts": {
-        "start": "node connectDB.js"
-    }
+      "start": "node connectDB.js",
+      "build": "echo \"skip\""
+    },
+  "engines": {
+    "node": ">=20"
+  }
 }
