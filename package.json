@@ -4,11 +4,19 @@
     "mqtt": "^5.7.0",
     "pg": "^8.12.0"
   },
-    "scripts": {
-      "start": "node connectDB.js",
-      "build": "echo \"skip\""
-    },
+  "scripts": {
+    "start": "node server",
+    "build": "echo \"skip\""
+  },
   "engines": {
     "node": ">=20"
-  }
+  },
+  "name": "get",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000G\u0000E\u0000T\u0000_\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "connectDB.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
